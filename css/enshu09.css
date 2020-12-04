@@ -1,0 +1,48 @@
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+p{
+    
+}
+/*h1タグの中でもkudoというidのやつだけ装飾*/
+h1.A{
+    color: white;
+    text-align:center;
+    background-color:black;
+}
+
+h1.B{
+    color:lawngreen;
+    text-align:center;
+    background-color:darkgreen;
+}
+
+h2.a{
+    color:white;
+    text-align:center;
+    background-color:red;
+}
+
+h2.b{
+    color:white;
+    text-align:center;
+    background-color:blue;
+}
+
+h2:hover{
+    color: black;
+    background-color:yellow;
+}
+
+a{
+    color:deeppink;
+}
+
+a:hover{
+    color:yellow;
+    background-color:black;
+}
+
+body {
+    background-image : url(../images/授業画像９.jpg);
+    background-attachment : fixed;
+    background-position:right;
+    }
