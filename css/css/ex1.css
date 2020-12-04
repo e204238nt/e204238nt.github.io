@@ -1,0 +1,41 @@
+h1{
+    color : #ffffff ;
+    text-align : center ;
+    background-color : #000000 ;
+}
+
+h2{
+    color : #ffffff ;
+    text-align : center ;
+    background-color : #000000 ; 
+}
+
+h3{
+     color:#ff0000;
+}    
+
+
+
+
+P{
+    color : #0000ff ;
+  
+}
+body {
+    background-image:url(../images/aw.jpg) ;
+}
+
+
+
+tr{
+    background-color : #8888ff ; 
+}
+
+ol{
+  background-image:url(../images/ww.jpg) ;  
+    
+}
+
+
+
+
